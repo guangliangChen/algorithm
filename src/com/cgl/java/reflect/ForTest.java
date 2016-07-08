@@ -9,7 +9,7 @@ public class ForTest {
 
     public String getCntCompareResult(int cntParam) {
         if(this.cnt < cntParam) {
-            return "paramater is bigger";
+            return "paramater is bigger  test002";
         } else if (this.cnt == cntParam) {
             return "equal";
         } else {
