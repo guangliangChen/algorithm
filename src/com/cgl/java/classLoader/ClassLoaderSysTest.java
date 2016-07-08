@@ -14,5 +14,7 @@ public class ClassLoaderSysTest {
 
         ClassLoader brostLoader = extensionLoader.getParent();
         System.out.println("Brost loader:" + extensionLoader);
+
+        System.out.println("test0708");
     }
 }
